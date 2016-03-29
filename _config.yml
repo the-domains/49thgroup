@@ -1,4 +1,4 @@
-name: 49thGroup
+name: '49thGroup, LLC'
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.21986959571950138
@@ -22,7 +22,7 @@ color:
     - '#fbd931'
     - '#7a6111'
   brandStrength: 0.31805578037165105
-  lightness: 0.577698192326352
+  lightness: 0
   saturation: 0.9780008369125426
   rhythmicContrast: 0.4416998326778412
 purpose: []
