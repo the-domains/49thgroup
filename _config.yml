@@ -1,0 +1,28 @@
+name: 49thGroup
+favicon: null
+layout_spectrum: 0.6255232482217252
+typography_spectrum: 0.21986959571950138
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.31805578037165105
+  lightness: 0.577698192326352
+  saturation: 0.9780008369125426
+  rhythmicContrast: 0.4416998326778412
+purpose: []
