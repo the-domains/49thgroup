@@ -14,15 +14,15 @@ collections:
       number: 10
 color:
   saturation: 0.5
-  brandStrength: 0.5
-  rhythmicContrast: 0.4416998
+  brandStrength: 1
+  lightness: 0
   brandColors:
     - '#ffffff'
     - '#021625'
     - '#fcec3f'
     - '#6a747d'
     - '#c9bf39'
-  lightness: 0
+  rhythmicContrast: 0.4416998
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: '49thGroup, LLC'
 favicon: null
+name: '49thGroup, LLC'
 opengraph:
   image: null
   type: null
