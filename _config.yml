@@ -1,5 +1,8 @@
+name: '49thGroup, LLC'
+favicon: null
+layout_spectrum: 0.24716
+typography_spectrum: 1
 title: null
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5
-  brandStrength: 1
-  rhythmicContrast: 0.4416998
   brandColors:
     - '#ffffff'
     - '#021625'
     - '#fcec3f'
     - '#6a747d'
     - '#c9bf39'
+  brandStrength: 1
   lightness: 0
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: '49thGroup, LLC'
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 1
-layout_spectrum: 0
+  saturation: 0.5
+  rhythmicContrast: 0.4416998
+purpose: []
