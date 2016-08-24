@@ -1,7 +1,18 @@
+layout_spectrum: 0.25567
+typography_spectrum: 0.7151631321758032
+color:
+  brandColors:
+    - '#ffffff'
+    - '#021625'
+    - '#fcec3f'
+    - '#6a747d'
+    - '#c9bf39'
+  brandStrength: 1
+  lightness: 0
+  saturation: 0.5
+  rhythmicContrast: 0.4416998
 name: '49THGROUP, LLC'
 favicon: null
-layout_spectrum: 0.25567
-typography_spectrum: 1
 title: null
 collections:
   - index:
@@ -27,15 +38,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#021625'
-    - '#fcec3f'
-    - '#6a747d'
-    - '#c9bf39'
-  brandStrength: 1
-  lightness: 0
-  saturation: 0.5
-  rhythmicContrast: 0.4416998
 purpose: []
