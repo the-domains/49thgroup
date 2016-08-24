@@ -1,6 +1,6 @@
 name: '49THGROUP, LLC'
 favicon: null
-layout_spectrum: 0.1174112947192043
+layout_spectrum: 0.22194
 typography_spectrum: 0.9569733226671815
 title: null
 collections:
@@ -34,7 +34,7 @@ color:
     - '#fcec3f'
     - '#6a747d'
     - '#c9bf39'
-  brandStrength: 0.5
+  brandStrength: 1
   lightness: 0
   saturation: 0.5
   rhythmicContrast: 0.4416998
